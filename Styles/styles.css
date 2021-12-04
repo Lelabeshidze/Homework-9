@@ -9,7 +9,6 @@ ol, ul {
 a {
     text-decoration: none;
 }
-=======
 .container {
   max-width: 1920px;
   width: 100%;
@@ -104,37 +103,6 @@ button {
  	margin-left: 70%;
  	font-size: 16px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body {
     overflow-x: hidden;
 }
