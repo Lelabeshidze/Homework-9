@@ -126,3 +126,12 @@ body {
     opacity: 0.9;
     padding-left: 25px;
 }
+.more-projects-span-a {
+    font-size: 18px;
+    font-family: 'Helvetica Neue LT';
+    color: #171717;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 1080px;
+    font-weight: 700;
+}
