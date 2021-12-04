@@ -10,11 +10,10 @@ a {
     text-decoration: none;
 }
 .container {
-  max-width: 1920px;
-  width: 100%;
-  background-color: #0A22F4;
-  padding-top: 50px;
-  padding-bottom: 50px;
+    max-width: 1475px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0A22F4;
 }
 .main_flex {
   display: flex;
@@ -228,4 +227,7 @@ body {
     margin-top: 330px;
     margin-left: 1080px;
     font-weight: 700;
+}
+.nikas-section { 
+    margin-bottom: 500px;
 }
