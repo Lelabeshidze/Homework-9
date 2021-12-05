@@ -300,6 +300,6 @@ p {
 .secondsection {
     margin-bottom: 100px;
 }
-.partners, p {
-    margin-left:70px;
+.partners,.secondparagraph {
+    margin:70px;
 }
