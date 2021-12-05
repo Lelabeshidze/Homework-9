@@ -291,3 +291,6 @@ p {
 .thirdline {
     display: flex;
 }
+.partners, p {
+	margin-left:100px;
+}
