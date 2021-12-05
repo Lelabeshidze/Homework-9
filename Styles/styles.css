@@ -297,6 +297,9 @@ p {
 .thirdline {
     display: flex;
 }
+.partners,.secondp {
+	margin:70px;
+}
 .secondsection {
     margin-bottom: 100px;
 }
