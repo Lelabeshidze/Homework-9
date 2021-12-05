@@ -283,6 +283,7 @@ p {
 .circles {
     display: flex;
     margin-top: 10px;
+    margin-right: 100px;
 }
 .firstline, .secondline, .thirdline {
     flex-shrink:7;
